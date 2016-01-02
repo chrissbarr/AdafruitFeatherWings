@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: featherFet.PcbDoc   1/2/2016  4:28:15 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : featherFet.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.4mm (15.748mil)        Round          3                9.58 mm (0.38 Inch)
+T2        0.9mm (35.433mil)        Round          2                3.50 mm (0.14 Inch)
+T3        0.9652mm (38mil)         Round          2                5.00 mm (0.20 Inch)
+T4        1.016mm (40mil)          Round          32               108.84 mm (4.28 Inch)
+T5        1.2mm (47.244mil)        Round          2                2.54 mm (0.10 Inch)
+T6        2.5146mm (99mil)         Round          2                17.78 mm (0.70 Inch)
+T7        2.9972mm (118mil)        Round          6                83.33 mm (3.28 Inch)
+---------------------------------------------------------------------------
+Totals                                            49               230.57 mm (9.08 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
