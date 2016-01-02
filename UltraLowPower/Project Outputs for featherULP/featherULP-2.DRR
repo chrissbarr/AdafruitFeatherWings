@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: featherULP-2.PcbDoc   1/1/2016  10:29:50 PM
+NCDrill File Report For: featherULP-2.PcbDoc   1/2/2016  4:30:19 PM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,13 +7,11 @@ ASCII RoundHoles File : featherULP-2.TXT
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        0.4mm (15.748mil)        Round          23               118.34 mm (4.66 Inch)
-T2        0.6mm (23.622mil)        Round          3                6.13 mm (0.24 Inch)
-T3        0.7112mm (28mil)         Round          1                0.00 mm (0.00 Inch)
-T4        1.016mm (40mil)          Round          58               250.01 mm (9.84 Inch)
-T5        2.5146mm (99mil)         Round          2                17.78 mm (0.70 Inch)
-T6        2.54mm (100mil)          Round          2                17.78 mm (0.70 Inch)
+T1        0.4mm (15.748mil)        Round          49               185.81 mm (7.32 Inch)
+T2        0.6mm (23.622mil)        Round          6                12.70 mm (0.50 Inch)
+T3        1.016mm (40mil)          Round          52               184.81 mm (7.28 Inch)
+T4        2.5146mm (99mil)         Round          2                17.78 mm (0.70 Inch)
 ---------------------------------------------------------------------------
-Totals                                            89               410.04 mm (16.14 Inch)
+Totals                                            109              401.10 mm (15.79 Inch)
 
 Total Processing Time (hh:mm:ss) : 00:00:00
